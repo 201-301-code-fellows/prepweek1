@@ -67,66 +67,84 @@ How will you approach each other and the challenges of the project knowing that 
 
 
 How will you raise concerns to members who are not adequately contributing?  
-
+>Be sure the member understands what is going on, and ask questions if needed. 
+>Gather as a group and address the lack of contrubution collectively 
 
 How and when will you escalate the conflict if your resolution attempts are unsuccessful?  
-
+>After dussing the issue with the group, if no resolution is found bring it up to a TA to assist with resolution. 
 
 ### Communication Plan  
 
  
 What hours will you be available to communicate?  
+>Lewis- 9AM - 5 pm PST for working primarily- 5pm to 9pm for extended work is acceptable 
+
+>Monica- 9AM - 5 pm PST for working primarily- 5pm to 8pm for extended work is acceptable
+
+>Jonathan- 9am - 5PM PST   5pm to 10pm PST for extended work is acceptable 
+
+>Nú- 9AM - 5 pm PST for working primarily- 5pm to 8pm for extended work is acceptable
+
+>Raphael- 9AM - 5 pm PST for working primarily- 5pm to 10pm PST for extended work is acceptable 
+
 
 
 What platforms will you use to communicate (ie. Slack, phone …)?  
-
+>Slack primary outside of REMO. 
 
 How often will you take breaks?  
-
+>Its a good idea to break every hour- take breaks as needed throughout the day. 
 
 What is your plan if you start to fall behind?  
-
+>Ask for help, and use extended hours for catchup work. 
 
 How will you communicate after hours and on the weekend?  
-
+>We have a group chat in slack, we can always jump in Remo.
 
 What is your strategy for ensuring everyone’s voice is heard?  
+>Put ideas in writing if you dont think you are being heard so we can address the issues.
 
 
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?  
-
+>Don't belittle, be understanding of everyones levels of knowledge. Communicate!
 
 
 ## Work Plan
 
 How you will identify tasks, assign tasks, know when they are complete, and manage work in general?  
-
+>We will utalize GitHub's built in project management, and discuss the board each day to make sure everyone has task. 
 
 What project management tool will be used?  
-
+>GitHubs project management
 
 
  ## Git Plan  
  
  
 What components of your project will live on GitHub?  
+>Everything will live in our GitHub repos.  
 
 
 How will you share the repository with your teammates?  
+>Using GitHub's Organization feature with everyone set to admin in the group  
 
 
 What is your Git flow?  
-
+>After each feature is fully implemented and stable, an ACP will be completed, the merge will reviewed by two, if acctepted  
+>everyone will conduct a pull request to ensure everyones code is the same. 
 
 Will you be using a PR review workflow? If so, consider:  
 How many people must review a PR?  
+>Two people must review the merge before accepting, and test for a stable build prior to the pull requests
 
 Who merges PRs?  
+>We will decide case by case who the two are are the time of the merge (depending on the code, and the strengths of the group members reviewing the code)
 
 How often will you merge?  
+>With every ACP we will perform a merge and pull to everyones computers
 
 How will you communicate that it’s time to merge?  
-
+>We will confirm everyone is ready for the merge so we can conduct the pull requests after the merge. 
 
 
 #### Nothing Follows
