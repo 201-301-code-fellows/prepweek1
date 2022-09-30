@@ -2,7 +2,7 @@
 	 
 	 
 	## Cooperation Plan 
-	 
+	Team A  consists of Monica, Lewis, Jonathan, Nú, Raphael
 	### Describe at least: 
 	 
 	What are the key strengths of each person on the team? 
